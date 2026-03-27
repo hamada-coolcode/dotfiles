@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/hamada/Downloads/jetbrains-toolbox-3.4.0.77112/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=2f41c304-37ac-4cb8-a626-29201a8d4fbb
+-Dtoolbox.notification.portFile=/home/hamada/.cache/JetBrains/Toolbox/ports/143abda9-f5fb-47ef-b95d-c6214870afb4.port

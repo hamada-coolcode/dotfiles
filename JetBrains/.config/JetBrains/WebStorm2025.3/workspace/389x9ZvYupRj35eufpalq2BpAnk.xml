@@ -1,0 +1,820 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hamada" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2ej6do0zelhwx" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/try/future/quill/index.ts" file-id="489" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.ts","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,99,10,34,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,84,121,112,101,83,99,114,105,112,116,70,105,108,101,46,115,118,103,18,36,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,121,112,101,83,99,114,105,112,116,46,115,118,103,26,10,74,97,118,97,83,99,114,105,112,116,40,-23,-107,-64,-58,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/try/future/quill/public/style.css" file-id="494" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"style.css","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,17,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-107,-61,-84,-104,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 2,
+      "lastUsed": 1769595432780
+    },
+    "CSS": {
+      "usageCount": 2,
+      "lastUsed": 1769595433042
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1769595433042" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="2" lastUsage="1769595432783" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ReactAppPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future/quill}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future/quill}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/future/quill/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="hamada" />
+            <item name="hamada" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hamada" />
+              <item name="dir{file:///home/hamada}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bun" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".bun" />
+                <item name="dir{file:///home/hamada/.bun}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cache" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cache" />
+                <item name="dir{file:///home/hamada/.cache}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cargo" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cargo" />
+                <item name="dir{file:///home/hamada/.cargo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".claude" />
+                <item name="dir{file:///home/hamada/.claude}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".config" />
+                <item name="dir{file:///home/hamada/.config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.dotnet" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".dotnet" />
+                <item name="dir{file:///home/hamada/.dotnet}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.dx" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".dx" />
+                <item name="dir{file:///home/hamada/.dx}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.fontconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".fontconfig" />
+                <item name="dir{file:///home/hamada/.fontconfig}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gnupg" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".gnupg" />
+                <item name="dir{file:///home/hamada/.gnupg}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/hamada/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.java" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".java" />
+                <item name="dir{file:///home/hamada/.java}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.junie" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".junie" />
+                <item name="dir{file:///home/hamada/.junie}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.local" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".local" />
+                <item name="dir{file:///home/hamada/.local}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mozilla" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mozilla" />
+                <item name="dir{file:///home/hamada/.mozilla}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.npm" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".npm" />
+                <item name="dir{file:///home/hamada/.npm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.pki" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".pki" />
+                <item name="dir{file:///home/hamada/.pki}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.rustup" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".rustup" />
+                <item name="dir{file:///home/hamada/.rustup}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.terraform.d" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".terraform.d" />
+                <item name="dir{file:///home/hamada/.terraform.d}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.var" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".var" />
+                <item name="dir{file:///home/hamada/.var}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/hamada/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.wine" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".wine" />
+                <item name="dir{file:///home/hamada/.wine}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zvm" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".zvm" />
+                <item name="dir{file:///home/hamada/.zvm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Desktop" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Desktop" />
+                <item name="dir{file:///home/hamada/Desktop}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Documents" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Documents" />
+                <item name="dir{file:///home/hamada/Documents}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Downloads" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Downloads" />
+                <item name="dir{file:///home/hamada/Downloads}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Games" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Games" />
+                <item name="dir{file:///home/hamada/Games}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/go" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="go" />
+                <item name="dir{file:///home/hamada/go}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Music" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Music" />
+                <item name="dir{file:///home/hamada/Music}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pictures" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Pictures" />
+                <item name="dir{file:///home/hamada/Pictures}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Public" />
+                <item name="dir{file:///home/hamada/Public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/stuff" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="stuff" />
+                <item name="dir{file:///home/hamada/stuff}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Templates" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Templates" />
+                <item name="dir{file:///home/hamada/Templates}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/try" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="try" />
+                <item name="dir{file:///home/hamada/try}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/try/bootjs" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bootjs" />
+                  <item name="dir{file:///home/hamada/try/bootjs}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/try/future" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="future" />
+                  <item name="dir{file:///home/hamada/try/future}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/try/future/quill" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="quill" />
+                    <item name="dir{file:///home/hamada/try/future/quill}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/node_modules" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                      <item name="dir{file:///home/hamada/try/future/quill/node_modules}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                      <item name="dir{file:///home/hamada/try/future/quill/public}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public/images" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="images" />
+                        <item name="dir{file:///home/hamada/try/future/quill/public/images}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public/create_journal.html" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="create_journal.html" />
+                        <item name="create_journal.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public/login.html" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="login.html" />
+                        <item name="login.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public/register.html" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="register.html" />
+                        <item name="register.html" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/public/style.css" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/fileTypes/css.svg" iconPlugin="com.intellij" isLeaf="true" text="style.css" />
+                        <item name="style.css" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/.gitignore" />
+                        </map>
+                      </attributes>
+                      <data iconPath="vcs/ignore_file.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                      <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/bun.lock" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/bun.svg" iconPlugin="intellij.javascript.bun" isLeaf="true" text="bun.lock" />
+                      <item name="bun.lock" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/index.html" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="index.html" />
+                      <item name="index.html" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/index.ts" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="index.ts" />
+                      <item name="index.ts" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/package.json" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                      <item name="package.json" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/README.md" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                      <item name="README.md" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/try/future/quill/tsconfig.json" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                      <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/try/future/try" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="try" />
+                    <item name="dir{file:///home/hamada/try/future/try}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/try/zig" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="zig" />
+                  <item name="dir{file:///home/hamada/try/zig}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Videos" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Videos" />
+                <item name="dir{file:///home/hamada/Videos}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/zig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="zig" />
+                <item name="dir{file:///home/hamada/zig}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/zls" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="zls" />
+                <item name="dir{file:///home/hamada/zls}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_history" />
+                <item name=".bash_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_logout" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_logout" />
+                <item name=".bash_logout" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_profile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_profile" />
+                <item name=".bash_profile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_profile.bak" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_profile.bak" />
+                <item name=".bash_profile.bak" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bashrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bashrc" />
+                <item name=".bashrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json" />
+                <item name=".claude.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup" />
+                <item name=".claude.json.backup" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup.1769594018916" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup.1769594018916" />
+                <item name=".claude.json.backup.1769594018916" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup.1769594018917" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup.1769594018917" />
+                <item name=".claude.json.backup.1769594018917" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup.1769594018918" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup.1769594018918" />
+                <item name=".claude.json.backup.1769594018918" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup.1769594018920" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup.1769594018920" />
+                <item name=".claude.json.backup.1769594018920" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.claude.json.backup.1769594018922" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".claude.json.backup.1769594018922" />
+                <item name=".claude.json.backup.1769594018922" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.node_repl_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".node_repl_history" />
+                <item name=".node_repl_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.profile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".profile" />
+                <item name=".profile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="280000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5010811" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" sideWeight="0.50111735" weight="0.33035713" />
+      <window_info id="Structure" order="2" sideWeight="0.4989189" side_tool="true" weight="0.33035713" />
+      <window_info id="Bookmarks" order="3" sideWeight="0.4988827" side_tool="true" weight="0.33035713" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.030499998" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3305" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3305" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3305" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.33035713" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.33035713" />
+      <window_info anchor="right" id="Hierarchy" order="7" weight="0.33035713" />
+      <window_info anchor="right" id="Endpoints" order="8" weight="0.33035713" />
+      <unified_weights bottom="0.3305" left="0.33035713" right="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>TODO</value>
+      <value>Run</value>
+      <value>Endpoints</value>
+      <value>Debug</value>
+      <value>Hierarchy</value>
+      <value>Database</value>
+      <value>Coverage</value>
+      <value>Find</value>
+      <value>Commit</value>
+      <value>Bookmarks</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="308" key="FileChooserDialogImpl" timestamp="1769595466382">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="748" y="308" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1769595466382" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/try/future/quill/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/future/quill/public/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

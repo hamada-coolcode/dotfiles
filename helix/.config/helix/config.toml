@@ -1,0 +1,8 @@
+theme = "catppuccin_frappe"
+
+[editor]
+bufferline = "always"
+
+[keys.normal]
+C-t = ":tree-sitter-subtree"
+

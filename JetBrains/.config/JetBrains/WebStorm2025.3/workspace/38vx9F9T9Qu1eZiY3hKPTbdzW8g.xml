@@ -1,0 +1,243 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="slides" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="21o6zapjsz1zz" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/index.html" file-id="600843" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="627">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.html","foregroundColor":-3747595,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,104,116,109,108,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css" file-id="600845" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="382">
+              <caret line="211" column="50" selection-start-line="211" selection-start-column="50" selection-end-line="211" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"style.css","foregroundColor":-3747595,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-103,1,10,-106,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,99,115,115,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "CSS": {
+      "usageCount": 4,
+      "lastUsed": 1769757128641
+    },
+    "JavaScript": {
+      "usageCount": 2,
+      "lastUsed": 1769750786533
+    },
+    "HTML": {
+      "usageCount": 4,
+      "lastUsed": 1769757034646
+    },
+    "Image": {
+      "usageCount": 1,
+      "lastUsed": 1769694190817
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/hamada/doit/slides/app.js",
+    "/home/hamada/doit/slides/index.html",
+    "/home/hamada/doit/slides/style.css"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="4" lastUsage="1769757128641" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="4" lastUsage="1769757034646" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="2" lastUsage="1769750786533" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="slides" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/doit/slides}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="slides" />
+            <item name="slides" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="slides" />
+              <item name="dir{file:///home/hamada/doit/slides}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_intellij.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/hamada/doit/slides/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.qodo" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".qodo" />
+                <item name="dir{file:///home/hamada/doit/slides/.qodo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/images" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_images.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="images" />
+                <item name="dir{file:///home/hamada/doit/slides/images}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app.js" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="app.js" />
+                <item name="app.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/style.css" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_css.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="style.css" />
+                <item name="style.css" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11550000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2408854" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.2408854" />
+      <window_info id="Qodo" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
+      <unified_weights left="0.2408854" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="310" key="FileChooserDialogImpl" timestamp="1769708667533">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="748" y="310" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1769708667533" />
+    <state x="469" y="187" key="SettingsEditor" timestamp="1769757094499">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="469" y="187" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1769757094499" />
+    <state width="498" height="463" key="SwitcherDM" timestamp="1769757033105">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="498" height="463" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1769757033105" />
+    <state x="624" y="257" key="run.anything.popup" timestamp="1769757340282">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="257" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1769757340282" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="211" column="50" selection-start-line="211" selection-start-column="50" selection-end-line="211" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

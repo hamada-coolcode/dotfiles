@@ -1,0 +1,963 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="nuxt" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2o6eyjm90t4hw" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/stores/auth.ts" file-id="728961" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="448">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"auth.ts","foregroundColor":-1916787,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e2c08d"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,116,121,112,101,115,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/composables/useLogin.ts" file-id="728842" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2462">
+              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"useLogin.ts","foregroundColor":-1916787,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e2c08d"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,116,121,112,101,115,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "TypeScript": {
+      "usageCount": 31,
+      "lastUsed": 1772885815477
+    },
+    "Vue.js": {
+      "usageCount": 34,
+      "lastUsed": 1772418791648
+    },
+    "CSS": {
+      "usageCount": 2,
+      "lastUsed": 1772372080537
+    },
+    "tsconfig": {
+      "usageCount": 1,
+      "lastUsed": 1772345649337
+    },
+    "JSON": {
+      "usageCount": 3,
+      "lastUsed": 1772365644046
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1772344988820
+    },
+    "SQL": {
+      "usageCount": 3,
+      "lastUsed": 1772366447033
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/hamada/try/nuxt/app/app.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/stores/page.ts&quot;,
+    &quot;/home/hamada/try/nuxt/nuxt.config.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/layouts/default.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/components/layout/TopNavbar.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/index.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/[...catchAll].vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/projects/[id].vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/tasks/[id].vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/tasks/[slug].vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/useTasksQuery.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/useTasksWithProjectsQuery.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/getTasks.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/projects/index.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/tableColumns/projects.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/tableColumns/tasks.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/tasks/index.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/projects/[slug].vue&quot;,
+    &quot;/home/hamada/try/nuxt/supabase/migrations/20260228071924_projects-schema.sql&quot;,
+    &quot;/home/hamada/try/nuxt/supabase/migrations/20260301120028_profiles-schema.sql&quot;,
+    &quot;/home/hamada/try/nuxt/app/assets/css/main.css&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/register.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/pages/login.vue&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/useProfile.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/useRegister.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/stores/auth.ts&quot;,
+    &quot;/home/hamada/try/nuxt/app/composables/useLogin.ts&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="2" lastUsage="1772372080537" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1772365644047" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1772344988821" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1772366447033" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="31" lastUsage="1772885815477" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="34" lastUsage="1772418791648" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/app/composables}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/app/stores}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/nuxt/composables}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="nuxt" />
+            <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/assets/icons/foldersOpen/nuxt.svg" iconPlugin="com.mallowigi" isLeaf="false" text="nuxt" />
+              <item name="dir{file:///home/hamada/try/nuxt}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_github.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/hamada/try/nuxt/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_intellij.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/hamada/try/nuxt/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nuxt" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_nuxt.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".nuxt" />
+                <item name="dir{file:///home/hamada/try/nuxt/.nuxt}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.qodo" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".qodo" />
+                <item name="dir{file:///home/hamada/try/nuxt/.qodo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="/assets/icons/foldersOpen/app.svg" iconPlugin="com.mallowigi" isLeaf="false" text="app" />
+                <item name="dir{file:///home/hamada/try/nuxt/app}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/assets" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_assets.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="assets" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/assets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/components" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_components.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="components" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/components}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/composables" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/foldersOpen/hook.svg" iconPlugin="com.mallowigi" isLeaf="false" text="composables" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/composables}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/tableColumns" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="tableColumns" />
+                    <item name="dir{file:///home/hamada/try/nuxt/app/composables/tableColumns}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useLogin.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useLogin.ts" />
+                    <item name="useLogin.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useProfile.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useProfile.ts" />
+                    <item name="useProfile.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useProjects.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useProjects.ts" />
+                    <item name="useProjects.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useRegister.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useRegister.ts" />
+                    <item name="useRegister.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useSupabase.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useSupabase.ts" />
+                    <item name="useSupabase.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/composables/useTasks.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useTasks.ts" />
+                    <item name="useTasks.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/database" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_database.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="database" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/database}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/layouts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_layouts.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="layouts" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/layouts}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/pages" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_views.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="pages" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/pages}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/plugins" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_plugins.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="plugins" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/plugins}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/stores" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/foldersOpen/redux-stores.svg" iconPlugin="com.mallowigi" isLeaf="false" text="stores" />
+                  <item name="dir{file:///home/hamada/try/nuxt/app/stores}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/stores/auth.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="auth.ts" />
+                    <item name="auth.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/app.config.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="app.config.ts" />
+                  <item name="app.config.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/app.vue" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="app.vue" />
+                  <item name="app.vue" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/formkit.config.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="formkit.config.ts" />
+                  <item name="formkit.config.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/composables" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_composables.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="composables" />
+                <item name="dir{file:///home/hamada/try/nuxt/composables}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/composables/tableColumns" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="tableColumns" />
+                  <item name="dir{file:///home/hamada/try/nuxt/composables/tableColumns}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/composables/getProjects.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="getProjects.ts" />
+                  <item name="getProjects.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/composables/useSupabase.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useSupabase.ts" />
+                  <item name="useSupabase.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/composables/useTasks.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="useTasks.ts" />
+                  <item name="useTasks.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/database" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_database.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="database" />
+                <item name="dir{file:///home/hamada/try/nuxt/database}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_node.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/hamada/try/nuxt/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_public.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="public" />
+                <item name="dir{file:///home/hamada/try/nuxt/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/supabase" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="supabase" />
+                <item name="dir{file:///home/hamada/try/nuxt/supabase}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/editorconfig.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env.example" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env.example" />
+                <item name=".env.example" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="vcs/ignore_file.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bun.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="files/other/bun.svg" iconPlugin="com.mallowigi" isLeaf="true" text="bun.lock" />
+                <item name="bun.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.mjs" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="eslint.config.mjs" />
+                <item name="eslint.config.mjs" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/nuxt.config.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="files/plugins/javascript/fileTypes/TypeScriptFile.svg" iconPlugin="com.mallowigi" isLeaf="true" text="nuxt.config.ts" />
+                <item name="nuxt.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="files/fileTypes/json.svg" iconPlugin="com.mallowigi" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-lock.yaml" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="pnpm-lock.yaml" />
+                <item name="pnpm-lock.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pnpm-workspace.yaml" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text="pnpm-workspace.yaml" />
+                <item name="pnpm-workspace.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/MarkdownPlugin.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/renovate.json" />
+                  </map>
+                </attributes>
+                <data iconPath="files/fileTypes/json.svg" iconPlugin="com.mallowigi" isLeaf="true" text="renovate.json" />
+                <item name="renovate.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data iconPath="files/fileTypes/json.svg" iconPlugin="com.mallowigi" isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (3)" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38297000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="npm" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50049114" visible="true" weight="0.2408854" />
+      <window_info id="Commit" order="1" weight="0.2408854" />
+      <window_info id="Structure" order="2" sideWeight="0.49950886" side_tool="true" weight="0.2408854" />
+      <window_info id="Qodo" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.82161456" side_tool="true" visible="true" weight="0.3668893" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" sideWeight="0.1783854" weight="0.40314886" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.44608778" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
+      <unified_weights bottom="0.3668893" left="0.2408854" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Structure</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="293" width="750" height="525" key="#com.intellij.ide.util.MemberChooser" timestamp="1772351096264">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="585" y="293" width="750" height="525" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1772351096264" />
+    <state x="748" y="310" key="FileChooserDialogImpl" timestamp="1772885843231">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="748" y="310" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1772885843231" />
+    <state width="1920" height="425" key="GridCell.Tab.0.bottom" timestamp="1772345961400">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="425" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1772345961400" />
+    <state width="1920" height="425" key="GridCell.Tab.0.center" timestamp="1772345961400">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="425" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1772345961400" />
+    <state width="1920" height="425" key="GridCell.Tab.0.left" timestamp="1772345961400">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="425" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1772345961400" />
+    <state width="1920" height="425" key="GridCell.Tab.0.right" timestamp="1772345961400">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1920" height="425" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1772345961400" />
+    <state width="534" height="666" key="SwitcherDM" timestamp="1772375230387">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="534" height="666" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1772375230387" />
+    <state x="698" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772374775713">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="698" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1772374775713" />
+    <state x="624" y="257" key="run.anything.popup" timestamp="1772392727930">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="257" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1772392727930" />
+    <state x="623" y="258" width="672" height="701" key="search.everywhere.popup" timestamp="1772355256865">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="258" width="672" height="701" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1772355256865" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/app/components/AppLogo.vue" />
+    <entry file="file://$PROJECT_DIR$/app/components/TemplateMenu.vue" />
+    <entry file="file://$PROJECT_DIR$/app/stores/page.ts" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nuxt/dist/app/components/nuxt-layout.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/layout/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="4" column="5" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#25#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/layout/TopNavbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1061">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/[...catchAll].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useTasksWithProjectsQuery.ts" />
+    <entry file="file://$PROJECT_DIR$/app/composables/useSupabase.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/projects/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/tableColumns/projects.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/tableColumns/tasks.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useProjects.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/plugins/iconify.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/tasks/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#517#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260228104102_tasks-schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260301120028_profiles-schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260228071924_projects-schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/projects/[slug].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuxt.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/tasks/[id].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3910">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useTasks.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useProfile.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useRegister.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2062">
+          <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/stores/auth.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/composables/useLogin.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2462">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

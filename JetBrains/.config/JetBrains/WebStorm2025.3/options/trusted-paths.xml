@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/WebstormProjects/slider_1" value="true" />
+        <entry key="$USER_HOME$/doit/slides" value="true" />
+        <entry key="$USER_HOME$/doit/zenith-css" value="true" />
+        <entry key="$USER_HOME$/projects/devsflow" value="true" />
+        <entry key="$USER_HOME$/projects/dhofar" value="true" />
+        <entry key="$USER_HOME$/try" value="true" />
+        <entry key="$USER_HOME$/try/nuxt" value="true" />
+        <entry key="$USER_HOME$/try/pico" value="true" />
+        <entry key="$USER_HOME$/try/vue" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

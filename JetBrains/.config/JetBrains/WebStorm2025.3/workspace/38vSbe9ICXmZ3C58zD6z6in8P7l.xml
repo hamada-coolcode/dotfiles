@@ -1,0 +1,1341 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="dhofar" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1t5th9ni049n5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/index.html" file-id="729084" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="510">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.html","foregroundColor":-3750196,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,104,116,109,108,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/js/vue/components/Gallery.js" file-id="729246" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="270">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <marker date="1774247421110" expanded="true" signature="922:1110" ph="..." />
+                <marker date="1774247421110" expanded="true" signature="922:1129" ph="..." />
+                <marker date="1774247421110" expanded="true" signature="922:1315" ph="`...`" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Gallery.js","foregroundColor":-3750196,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,106,97,118,97,115,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/data/placesData.js" file-id="729702" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="180">
+              <caret line="312" column="10" lean-forward="true" selection-start-line="312" selection-start-column="10" selection-end-line="312" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"placesData.js","foregroundColor":-3750196,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-96,1,10,-99,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,49,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,106,97,118,97,115,99,114,105,112,116,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JavaScript": {
+      "usageCount": 136,
+      "lastUsed": 1774460582505
+    },
+    "HTML": {
+      "usageCount": 71,
+      "lastUsed": 1774447102891
+    },
+    "Image": {
+      "usageCount": 4,
+      "lastUsed": 1774157495020
+    },
+    "CSS": {
+      "usageCount": 43,
+      "lastUsed": 1774447102347
+    },
+    "DIFF": {
+      "usageCount": 16,
+      "lastUsed": 1774260340248
+    },
+    "SVG": {
+      "usageCount": 4,
+      "lastUsed": 1773311534562
+    },
+    "WebPreview": {
+      "usageCount": 37,
+      "lastUsed": 1774460671658
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1772889666999
+    },
+    "Markdown": {
+      "usageCount": 5,
+      "lastUsed": 1774240589854
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1773322129660
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lang</find>
+      <find>item</find>
+      <find>content</find>
+      <find>title</find>
+      <find>description</find>
+      <find>buttons</find>
+      <find>.carousel .list .item</find>
+      <find>.carousel__item .content</find>
+      <find>carousel</find>
+      <find>thumbnail</find>
+      <find>auto</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>language</replace>
+      <replace>carousel__item</replace>
+      <replace>carousel__item__content</replace>
+      <replace>carousel__item__title</replace>
+      <replace>carousel__item__description</replace>
+      <replace>carousel__item__buttons</replace>
+      <replace>.carousel__item</replace>
+      <replace>.carousel__item__content</replace>
+      <replace>thumbnail</replace>
+      <replace>carousel__thumbnail</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/hamada/projects/dhofar/css/video-sections.css",
+    "/home/hamada/projects/dhofar/css/index/video-sections.css",
+    "/home/hamada/projects/dhofar/js/mounters/index.js",
+    "/home/hamada/projects/dhofar/css/LICENSE",
+    "/home/hamada/projects/dhofar/README.md",
+    "/home/hamada/projects/dhofar/js/vue/utils/helpers.js",
+    "/home/hamada/projects/dhofar/js/vue/data.js",
+    "/home/hamada/projects/dhofar/css/index/carousel.css",
+    "/home/hamada/projects/dhofar/css/settings.css",
+    "/home/hamada/projects/dhofar/js/vue/components/Settings.js",
+    "/home/hamada/projects/dhofar/pages/urbanicities.html",
+    "/home/hamada/projects/dhofar/pages/natural_parks.html",
+    "/home/hamada/projects/dhofar/pages/mountains.html",
+    "/home/hamada/projects/dhofar/js/vue/components/Footer.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Card.js",
+    "/home/hamada/projects/dhofar/js/vue/components/ContentOverview.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Gallery.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Sections/PlaceCategorySection.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Navbar.js",
+    "/home/hamada/projects/dhofar/js/vue/components/AboutHero.js",
+    "/home/hamada/projects/dhofar/WEAK.md",
+    "/home/hamada/projects/dhofar/js/vue/components/Carousel.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Sections/ExploreLeftColumn.js",
+    "/home/hamada/projects/dhofar/js/i18n/index.js",
+    "/home/hamada/projects/dhofar/js/vue/components/AboutTechnologies.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Sections/ExploreCardLarge.js",
+    "/home/hamada/projects/dhofar/pages/about.html",
+    "/home/hamada/projects/dhofar/pages/coasts.html",
+    "/home/hamada/projects/dhofar/pages/deserts.html",
+    "/home/hamada/projects/dhofar/pages/natural-parks.html",
+    "/home/hamada/projects/dhofar/pages/ruins.html",
+    "/home/hamada/projects/dhofar/pages/khareef.html",
+    "/home/hamada/projects/dhofar/khareef.html",
+    "/home/hamada/projects/dhofar/natural-parks.html",
+    "/home/hamada/projects/dhofar/deserts.html",
+    "/home/hamada/projects/dhofar/coasts.html",
+    "/home/hamada/projects/dhofar/ruins.html",
+    "/home/hamada/projects/dhofar/about.html",
+    "/home/hamada/projects/dhofar/vendor/daisyui.css",
+    "/home/hamada/projects/dhofar/js/vue/components/Sidebar.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Section.js",
+    "/home/hamada/projects/dhofar/css/general.css",
+    "/home/hamada/projects/dhofar/js/vue/components/ViewSections.js",
+    "/home/hamada/projects/dhofar/js/vue/components/ViewSections/ExploreHeader.js",
+    "/home/hamada/projects/dhofar/js/vue/components/ViewSections/ExploreLeftColumn.js",
+    "/home/hamada/projects/dhofar/js/vue/components/ViewSections/ExploreCardLarge.js",
+    "/home/hamada/projects/dhofar/index.html",
+    "/home/hamada/projects/dhofar/js/vue/components/ViewSections/PlaceCategorySection.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Settings/SettingsHeader.js",
+    "/home/hamada/projects/dhofar/js/vue/components/Settings/SettingsTheme.js",
+    "/home/hamada/projects/dhofar/js/data/placesData.js"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="43" lastUsage="1774447102350" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="71" lastUsage="1774447102891" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="136" lastUsage="1774460582505" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1774240589854" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="4" lastUsage="1773311534562" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1773322129660" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/css}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/shared}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/layout}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/PlaceCard}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/PlaceDetails}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="dhofar" />
+            <item name="dhofar" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="dhofar" />
+              <item name="dir{file:///home/hamada/projects/dhofar}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_intellij.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/hamada/projects/dhofar/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.qodo" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".qodo" />
+                <item name="dir{file:///home/hamada/projects/dhofar/.qodo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/css" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_styles.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="css" />
+                <item name="dir{file:///home/hamada/projects/dhofar/css}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/css/index" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="index" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/css/index}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/css/general.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_css.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="general.css" />
+                  <item name="general.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/css/settings.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_css.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="settings.css" />
+                  <item name="settings.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/fonts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_fonts.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="fonts" />
+                <item name="dir{file:///home/hamada/projects/dhofar/fonts}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/images" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_images.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="images" />
+                <item name="dir{file:///home/hamada/projects/dhofar/images}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/js" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/nodes/folderOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="js" />
+                <item name="dir{file:///home/hamada/projects/dhofar/js}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/data" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/foldersOpen/dump.svg" iconPlugin="com.mallowigi" isLeaf="false" text="data" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/data}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/i18n" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_locales.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="i18n" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/i18n}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/services" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_controllers.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="services" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/services}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/shared" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_shared.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="shared" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/shared}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/js/shared/preferences.js" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="preferences.js" />
+                    <item name="preferences.js" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/utils" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_utils.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="utils" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/utils}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/js/vue" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/foldersOpen/vue.svg" iconPlugin="com.mallowigi" isLeaf="false" text="vue" />
+                  <item name="dir{file:///home/hamada/projects/dhofar/js/vue}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/js/vue/components" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/assets/icons/foldersOpen/components.svg" iconPlugin="com.mallowigi" isLeaf="false" text="components" />
+                    <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/About" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="About" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/About}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/Index" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Index" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/Index}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/layout" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_folder_layouts.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="layout" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/layout}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/layout/Footer.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Footer.js" />
+                        <item name="Footer.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/layout/Navbar.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Navbar.js" />
+                        <item name="Navbar.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/layout/Settings.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Settings.js" />
+                        <item name="Settings.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/layout/Sidebar.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Sidebar.js" />
+                        <item name="Sidebar.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceCard" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="PlaceCard" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/PlaceCard}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceCard/PlaceCard.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceCard.js" />
+                        <item name="PlaceCard.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceCard/PlaceCardBody.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceCardBody.js" />
+                        <item name="PlaceCardBody.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceCard/PlaceCardImage.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceCardImage.js" />
+                        <item name="PlaceCardImage.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="PlaceDetails" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/PlaceDetails}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/index.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.js" />
+                        <item name="index.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsAbout.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsAbout.js" />
+                        <item name="PlaceDetailsAbout.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsActions.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsActions.js" />
+                        <item name="PlaceDetailsActions.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsGallery.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsGallery.js" />
+                        <item name="PlaceDetailsGallery.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsHeader.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsHeader.js" />
+                        <item name="PlaceDetailsHeader.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsMap.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsMap.js" />
+                        <item name="PlaceDetailsMap.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/PlaceDetails/PlaceDetailsModal.js" />
+                          </map>
+                        </attributes>
+                        <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="PlaceDetailsModal.js" />
+                        <item name="PlaceDetailsModal.js" type="ab9368bb:PsiFileNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/Settings" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_folder_config.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Settings" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/Settings}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/ViewSections" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="ViewSections" />
+                      <item name="dir{file:///home/hamada/projects/dhofar/js/vue/components/ViewSections}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/ContentOverview.js" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="ContentOverview.js" />
+                      <item name="ContentOverview.js" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/js/vue/components/Gallery.js" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="Gallery.js" />
+                      <item name="Gallery.js" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vendor" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="vendor" />
+                <item name="dir{file:///home/hamada/projects/dhofar/vendor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/videos" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_video.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="videos" />
+                <item name="dir{file:///home/hamada/projects/dhofar/videos}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/about.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="about.html" />
+                <item name="about.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/all.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="all.html" />
+                <item name="all.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CLAUDE.md" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_markdown.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="CLAUDE.md" />
+                <item name="CLAUDE.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/coasts.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="coasts.html" />
+                <item name="coasts.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/deserts.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="deserts.html" />
+                <item name="deserts.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/khareef.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="khareef.html" />
+                <item name="khareef.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_license.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/natural-parks.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="natural-parks.html" />
+                <item name="natural-parks.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_readme.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ruins.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="ruins.html" />
+                <item name="ruins.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Scratches and Consoles'; set:Scratches and Consoles; class com.intellij.ide.scratch.ScratchesNamedScope">
+          <expand>
+            <path>
+              <item name="dhofar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="dhofar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="nodes/project.svg" iconPlugin="com.intellij" isLeaf="false" text="dhofar" />
+            <item name="dhofar" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe_folder_plugins.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Extensions" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Database Tools and SQL" />
+                <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_database.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="data" />
+                  <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema" />
+                  <item name="schema" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema.layouts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema.layouts" />
+                  <item name="schema.layouts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="$PROJECT_DIR$/.idea/queries" />
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$/..">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="235555000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5397839" weight="0.22109374" />
+      <window_info active="true" id="Commit" order="1" sideWeight="0.50049114" visible="true" weight="0.22109374" />
+      <window_info id="Structure" order="2" sideWeight="0.4602161" side_tool="true" weight="0.22109374" />
+      <window_info id="Qodo" order="3" weight="0.3190104" />
+      <window_info id="Bookmarks" order="4" sideWeight="0.49950886" side_tool="true" weight="0.32994792" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4877137" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32967556" />
+      <window_info active="true" anchor="bottom" x="1487" y="129" width="292" height="535" id="Terminal" order="3" type="FLOATING" weight="0.32967556" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" weight="0.32967556" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
+      <unified_weights bottom="0.32967556" left="0.22109374" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58693516" visible="true" weight="0.22109374" />
+      <window_info id="Commit" order="1" sideWeight="0.50049114" weight="0.22109374" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.41306484" side_tool="true" visible="true" weight="0.22109374" />
+      <window_info id="Qodo" order="3" weight="0.3190104" />
+      <window_info id="Bookmarks" order="4" sideWeight="0.49950886" side_tool="true" weight="0.32994792" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4877137" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32967556" />
+      <window_info active="true" anchor="bottom" x="520" y="184" width="1145" height="535" id="Terminal" order="3" type="FLOATING" weight="0.3764313" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" weight="0.32959402" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" />
+      <unified_weights bottom="0.3764313" left="0.22109374" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Version Control</value>
+      <value>Qodo</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1774374218967">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="650" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1774374218967" />
+    <state x="748" y="310" key="FileChooserDialogImpl" timestamp="1770997130587">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="748" y="310" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1770997130587" />
+    <state x="770" y="278" key="RollbackChangesDialog" timestamp="1773313292419">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="770" y="278" key="RollbackChangesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1773313292419" />
+    <state x="469" y="187" key="SettingsEditor" timestamp="1772887341959">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="469" y="187" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1772887341959" />
+    <state width="498" height="439" key="SwitcherDM" timestamp="1774462724146">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="498" height="439" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1774462724146" />
+    <state x="560" y="288" key="Vcs.Push.Dialog.v2" timestamp="1774464841848">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="560" y="288" key="Vcs.Push.Dialog.v2/0.32.1920.1048@0.32.1920.1048" timestamp="1774464841848" />
+    <state x="708" y="257" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1773897209360">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="708" y="257" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1773897209360" />
+    <state x="756" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1774289249144">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="756" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1920.1048@0.32.1920.1048" timestamp="1774289249144" />
+    <state x="560" y="256" key="conflicts.dialog" timestamp="1769786967186">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="560" y="256" key="conflicts.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1769786967186" />
+    <state x="624" y="257" key="run.anything.popup" timestamp="1774249737350">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="257" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1774249737350" />
+    <state x="623" y="258" width="672" height="701" key="search.everywhere.popup" timestamp="1773313260424">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="258" width="672" height="701" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1773313260424" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/svg/more-vertical.svg" />
+    <entry file="file://$PROJECT_DIR$/css/index/carousel-animations.css" />
+    <entry file="file://$PROJECT_DIR$/js/vue/utils/helpers.js" />
+    <entry file="file://$PROJECT_DIR$/js/vue/app.js" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/data.js" />
+    <entry file="file://$PROJECT_DIR$/pages/mountains.html" />
+    <entry file="file://$PROJECT_DIR$/pages/natural_parks.html" />
+    <entry file="file://$PROJECT_DIR$/pages/urbanicities.html" />
+    <entry file="file://$PROJECT_DIR$/js/vue/components/layout/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mounters/index.js" />
+    <entry file="file://$PROJECT_DIR$/screenshot.png" />
+    <entry file="file://$PROJECT_DIR$/CLAUDE.md" />
+    <entry file="file://$PROJECT_DIR$/images/about/shaser_school.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/settings.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Card.js" />
+    <entry file="file://$PROJECT_DIR$/WEAK.md" />
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ContentOverview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/layout/Settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="90" column="62" selection-start-line="90" selection-start-column="62" selection-end-line="90" selection-end-column="62" />
+          <folding>
+            <marker date="1774175006746" expanded="true" signature="185:308" ph="{...}" />
+            <marker date="1774175006746" expanded="true" signature="196:308" ph="[ 2 elements ]" />
+            <marker date="1774175006746" expanded="true" signature="1035:1224" ph="[ 4 elements ]" />
+            <marker date="1774175006746" expanded="true" signature="1300:3304" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1348:3169" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1417:1703" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1586:1680" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1781:2451" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1960:2428" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="1993:2401" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="2520:3150" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="2696:3127" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="2729:3100" ph="..." />
+            <marker date="1774175006746" expanded="true" signature="3227:3286" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/About/AboutHero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/About/AboutTechnologies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/ExploreRightColumn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="web-preview-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coasts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deserts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/natural-parks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/khareef.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/daisyui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="6" column="973" selection-start-line="6" selection-start-column="973" selection-end-line="6" selection-end-column="973" />
+          <folding>
+            <element signature="e#4625#4952#2" expanded="true" />
+            <element signature="e#104569#105233#2" expanded="true" />
+            <element signature="e#105342#106006#2" expanded="true" />
+            <element signature="e#106057#106820#2" expanded="true" />
+            <element signature="e#106871#107823#2" expanded="true" />
+            <element signature="e#107874#108455#2" expanded="true" />
+            <element signature="e#108506#109857#2" expanded="true" />
+            <element signature="e#109912#110576#2" expanded="true" />
+            <element signature="e#263790#263976#2" expanded="true" />
+            <element signature="e#264027#264278#2" expanded="true" />
+            <element signature="e#264329#264512#2" expanded="true" />
+            <element signature="e#264561#265110#2" expanded="true" />
+            <element signature="e#265161#265599#2" expanded="true" />
+            <element signature="e#265652#266089#2" expanded="true" />
+            <element signature="e#266139#266316#2" expanded="true" />
+            <element signature="e#266368#266575#2" expanded="true" />
+            <element signature="e#266623#266897#2" expanded="true" />
+            <element signature="e#266947#267222#2" expanded="true" />
+            <element signature="e#267274#267496#2" expanded="true" />
+            <element signature="e#267550#267771#2" expanded="true" />
+            <element signature="e#267825#268057#2" expanded="true" />
+            <element signature="e#268111#268338#2" expanded="true" />
+            <element signature="e#270347#270630#1" expanded="true" />
+            <element signature="e#271443#271750#2" expanded="true" />
+            <element signature="e#274273#274580#2" expanded="true" />
+            <element signature="e#277160#277467#2" expanded="true" />
+            <element signature="e#280048#280355#2" expanded="true" />
+            <element signature="e#282936#283243#2" expanded="true" />
+            <element signature="e#285828#286135#2" expanded="true" />
+            <element signature="e#780087#780361#2" expanded="true" />
+            <element signature="e#783873#784147#2" expanded="true" />
+            <element signature="e#787708#787982#2" expanded="true" />
+            <element signature="e#791544#791818#2" expanded="true" />
+            <element signature="e#795380#795654#2" expanded="true" />
+            <element signature="e#799220#799494#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vue.global.prod.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <marker date="1774174388648" expanded="true" signature="642:1518" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="678:1025" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="772:1006" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="1058:1272" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="1128:1253" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="1308:1503" ph="..." />
+            <marker date="1774174388648" expanded="true" signature="1391:1484" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/layout/Sidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/services/themeService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/i18n/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="282" column="50" selection-start-line="282" selection-start-column="48" selection-end-line="282" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/ExploreHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/ExploreCardLarge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/ExploreCardSmall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/ExploreLeftColumn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/ViewSections/PlaceCategorySection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Index/Carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Settings/SettingsHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Settings/Settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shared/preferences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Index/ViewSections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+          <folding>
+            <marker date="1774376221233" expanded="true" signature="992:1747" ph="..." />
+            <marker date="1774376221233" expanded="true" signature="1139:1303" ph="..." />
+            <marker date="1774376221233" expanded="true" signature="1384:1732" ph="..." />
+            <marker date="1774376221233" expanded="true" signature="1444:1709" ph="..." />
+            <marker date="1774376221233" expanded="true" signature="1566:1686" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Settings/SettingsTheme.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Settings/SettingsLanguage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vue/components/Gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <marker date="1774247421110" expanded="true" signature="922:1110" ph="..." />
+            <marker date="1774247421110" expanded="true" signature="922:1129" ph="..." />
+            <marker date="1774247421110" expanded="true" signature="922:1315" ph="`...`" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="web-preview-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data/placesData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="312" column="10" lean-forward="true" selection-start-line="312" selection-start-column="10" selection-end-line="312" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

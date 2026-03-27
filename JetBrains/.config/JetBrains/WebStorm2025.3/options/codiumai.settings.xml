@@ -1,0 +1,83 @@
+<application>
+  <component name="CodiumSettings">
+    <option name="autoApprovedTools">
+      <map>
+        <entry key="Code Navigation">
+          <value>
+            <map>
+              <entry key="find_code_usages" value="true" />
+              <entry key="get_code_dependencies" value="true" />
+            </map>
+          </value>
+        </entry>
+        <entry key="File System">
+          <value>
+            <map>
+              <entry key="get_file_info" value="true" />
+              <entry key="list_files" value="true" />
+              <entry key="read_file" value="true" />
+              <entry key="replace_in_file" value="true" />
+              <entry key="search_files" value="true" />
+              <entry key="write_to_file" value="true" />
+            </map>
+          </value>
+        </entry>
+        <entry key="GIT">
+          <value>
+            <map>
+              <entry key="git_branches" value="true" />
+              <entry key="git_changes" value="true" />
+              <entry key="git_file_history" value="true" />
+              <entry key="git_remote_url" value="true" />
+            </map>
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <map>
+              <entry key="terminal_execute_command" value="false" />
+            </map>
+          </value>
+        </entry>
+        <entry key="Web Search">
+          <value>
+            <map>
+              <entry key="web_fetch" value="true" />
+              <entry key="web_search_tool" value="true" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="disabledServers">
+      <list>
+        <option value="Web Search" />
+      </list>
+    </option>
+    <option name="disabledTools">
+      <map>
+        <entry key="Codebase Semantic Search">
+          <value>
+            <list>
+              <option value="deep_research" />
+              <option value="remote_codebase_semantic_search_tool" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="distinctId" value="73lRpKdMbXUbILqe2i7qyq7mTqw2" />
+    <option name="installationId" value="990e3b2e-b6cf-439f-8a1a-1290ca838019" />
+    <option name="prevPluginVersion" value="2.2.0" />
+    <option name="userId" value="830e41b1-ad96-41f9-8458-5e07bc8a95c8" />
+    <option name="valueMap">
+      <map>
+        <entry key="customModel" value="&quot;gpt-5-minimal&quot;" />
+        <entry key="hasUpdatedModesWithAllCustomMcps" value="true" />
+        <entry key="hasUpdatedWorkflowsWithAllCustomMcps" value="true" />
+        <entry key="lastUserSelectedModel" value="&quot;gpt-5-minimal&quot;" />
+        <entry key="wordWrapButtonEnabled" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

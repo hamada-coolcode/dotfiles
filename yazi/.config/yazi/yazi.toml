@@ -1,0 +1,16 @@
+
+[mgr]
+ratio = [3, 6, 5]
+sort_by = "mtime"
+sort_reverse = true
+sort_dir_first = true
+line_mode = "size"
+show_hidden = true
+
+[preview]
+wrap = "no"
+tab_size = 2
+
+[input]
+cursor_blink = true
+

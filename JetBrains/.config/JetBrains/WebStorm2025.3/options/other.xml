@@ -1,0 +1,85 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ColorChooser.RecentColors": "255-235-125-255,,,0-0-0-190,,,53-196-49-255,,,47-30-30-153,,,0-0-0-147,,,255-255-255-226,,,0-0-0-128,,,251-252-252-8",
+    "Endpoints.split": "0.65",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "tailwind\ntypescript\ntypescri\ntypesc\ntypes",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "MarketplacePluginsSearchHistory": "tailwin\ntailwind\nta\natom\na",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.llm.onboarding.window.launcher.v7": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.svelte.init.key": "true",
+    "RunOnceActivity.trace.non.commercial.popup.id": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "SettingsSearchHistory": "plugi\ntypescript\nplugins\ncode sty\ntheme",
+    "TextEditorWithPreview.SplitterProportionKey": "0.42098445",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bidi.content.notification.disable": "true",
+    "enter_selection_count": "5",
+    "evlsprt.253": "19ba4582a00",
+    "evlsprt3.253": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "253.32098.39",
+    "file.gist.reindex.count": "7",
+    "fileTypeChangedCounter": "6",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "14.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.trial.state.widget.trial.started.got.it.id": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ide.islands.ab3": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/hamada/try/nuxt",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Atom One Dark",
+    "registry.to.advanced.settings.migration.build": "WS-253.32098.39",
+    "settings.code.style.selected.tab.TypeScript": "Wrapping and Braces",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "trial.state.last.availability.check": "0",
+    "trial.state.last.state": "ALERT",
+    "ts.lib.d.ts.version": "5.9.3",
+    "tv.twelvetone.intellij.common.device-id": "dd00de4a-4c6b-4b8a-85bb-7e81ba93f5e8",
+    "tv.twelvetone.intellij.plugins.intellivue.usage-counts": "{\"productVersion\":\"1.2.27\",\"product\":\"intellivue\",\"source\":\"dd00de4a-4c6b-4b8a-85bb-7e81ba93f5e8\",\"lastSent\":1774447099726,\"features\":{}}"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/hamada/projects/dhofar",
+      "/home/hamada/try/nuxt",
+      "/home/hamada/try/vue/nuxt",
+      "/home/hamada/try/vue",
+      "/home/hamada/projects/devsflow",
+      "/home/hamada/Pictures/Screenshots",
+      "/home/hamada/doit/slides",
+      "/home/hamada/doit/zenith-css",
+      "/home/hamada/try/pico",
+      "/home/hamada/try",
+      "/home/hamada"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

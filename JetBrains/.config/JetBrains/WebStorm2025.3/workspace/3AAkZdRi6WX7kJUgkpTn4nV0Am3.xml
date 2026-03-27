@@ -1,0 +1,1340 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="vue" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2o6eyjm90t4hw" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/pages/tasks/index.vue" file-id="657421" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1904">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <folding>
+                <element signature="e#181#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"index.vue","foregroundColor":-3750196,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-103,1,10,-106,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,118,117,101,46,115,118,103]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vite.config.ts" file-id="646877" managing-fs="1768051044007">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="392">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"vite.config.ts","foregroundColor":-1916787,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e2c08d"}},{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"e06c75"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"1"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-102,1,10,-105,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,104,97,109,97,100,97,47,46,108,111,99,97,108,47,115,104,97,114,101,47,74,101,116,66,114,97,105,110,115,47,87,101,98,83,116,111,114,109,50,48,50,53,46,51,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,51,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,102,114,97,112,112,101,95,118,105,116,101,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JavaScript": {
+      "usageCount": 9,
+      "lastUsed": 1772276125318
+    },
+    "HTML": {
+      "usageCount": 13,
+      "lastUsed": 1772343228119
+    },
+    "Image": {
+      "usageCount": 2,
+      "lastUsed": 1772343296265
+    },
+    "Terminal View": {
+      "usageCount": 9,
+      "lastUsed": 1772128763436
+    },
+    "JSON": {
+      "usageCount": 17,
+      "lastUsed": 1772281284106
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1772102538938
+    },
+    "tsconfig": {
+      "usageCount": 7,
+      "lastUsed": 1772280957304
+    },
+    "bun.lock": {
+      "usageCount": 3,
+      "lastUsed": 1772105202383
+    },
+    "GitIgnore file": {
+      "usageCount": 4,
+      "lastUsed": 1772260493881
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1772102626700
+    },
+    "Vue.js": {
+      "usageCount": 68,
+      "lastUsed": 1772344968128
+    },
+    "TypeScript": {
+      "usageCount": 40,
+      "lastUsed": 1772344968099
+    },
+    "textmate": {
+      "usageCount": 5,
+      "lastUsed": 1772343888343
+    },
+    "SQL": {
+      "usageCount": 3,
+      "lastUsed": 1772275280400
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1772266913949
+    },
+    "CSS": {
+      "usageCount": 6,
+      "lastUsed": 1772343120709
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>currentPageIndex</find>
+      <find>SUPABASE_URL</find>
+      <find>button</find>
+      <find>Buttin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>pageIndex</replace>
+      <replace>VITE_SUPABASE_URL</replace>
+      <replace>Buttin</replace>
+      <replace>Button</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/components/layout</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/hamada/try/vue/about.html&quot;,
+    &quot;/home/hamada/try/vue/contact.html&quot;,
+    &quot;/home/hamada/try/vue/app.js&quot;,
+    &quot;/home/hamada/try/vue/.browserslistrc&quot;,
+    &quot;/home/hamada/try/vue/dist/index.html&quot;,
+    &quot;/home/hamada/try/vue/src/shims-vue.d.ts&quot;,
+    &quot;/home/hamada/try/vue/bun.lock&quot;,
+    &quot;/home/hamada/try/vue/public/index.html&quot;,
+    &quot;/home/hamada/try/vue/src/models/pages.ts&quot;,
+    &quot;/home/hamada/try/vue/src/models/nav_models.ts&quot;,
+    &quot;/home/hamada/try/vue/src/pages.json.js&quot;,
+    &quot;/home/hamada/try/vue/src/pages.json&quot;,
+    &quot;/home/hamada/try/vue/src/components/Navbar.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/NavbarLink.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/PageViewer.vue&quot;,
+    &quot;/home/hamada/try/vue/.prettierrc.json&quot;,
+    &quot;/home/hamada/try/vue/src/views/ProjectsView.vue&quot;,
+    &quot;/home/hamada/try/vue/src/views/HomeView.vue&quot;,
+    &quot;/home/hamada/try/vue/src/views/SingleProjectView.vue&quot;,
+    &quot;/home/hamada/try/vue/env.d.ts&quot;,
+    &quot;/home/hamada/try/vue/src/router/index.ts&quot;,
+    &quot;/home/hamada/try/vue/src/pages/[...catchAll].vue&quot;,
+    &quot;/home/hamada/try/vue/.gitignore&quot;,
+    &quot;/home/hamada/try/vue/supabase/migrations/20260228071924_projects-schema.sql&quot;,
+    &quot;/home/hamada/try/vue/.env.example&quot;,
+    &quot;/home/hamada/try/vue/.env&quot;,
+    &quot;/home/hamada/try/vue/models/supabase.ts&quot;,
+    &quot;/home/hamada/try/vue/database/supabase.ts&quot;,
+    &quot;/home/hamada/try/vue/src/lib/supabaseClient.ts&quot;,
+    &quot;/home/hamada/try/vue/tsconfig.app.json&quot;,
+    &quot;/home/hamada/try/vue/src/pages/projects/index.vue&quot;,
+    &quot;/home/hamada/try/vue/package.json&quot;,
+    &quot;/home/hamada/try/vue/database/seed.js&quot;,
+    &quot;/home/hamada/try/vue/supabase/migrations/20260228104102_tasks-schema.sql&quot;,
+    &quot;/home/hamada/try/vue/src/pages/tasks/[id].vue&quot;,
+    &quot;/home/hamada/try/vue/src/style.css&quot;,
+    &quot;/home/hamada/try/vue/tsconfig.json&quot;,
+    &quot;/home/hamada/try/vue/components.json&quot;,
+    &quot;/home/hamada/try/vue/src/assets/index.css&quot;,
+    &quot;/home/hamada/try/vue/src/main.ts&quot;,
+    &quot;/home/hamada/try/vue/src/components/layout/Navbar.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/layout/TopNavbar.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/layout/SidebarLinks.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/layout/Sidebar.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/layout/main/AuthLayout.vue&quot;,
+    &quot;/home/hamada/try/vue/src/App.vue&quot;,
+    &quot;/home/hamada/try/vue/src/components/ui/data-table/DataTable.vue&quot;,
+    &quot;/home/hamada/try/vue/src/pages/tasks/index.vue&quot;,
+    &quot;/home/hamada/try/vue/index.html&quot;,
+    &quot;/home/hamada/try/vue/src/pages/index.vue&quot;,
+    &quot;/home/hamada/try/vue/vite.config.ts&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="6" lastUsage="1772343120709" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="4" lastUsage="1772260493881" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="13" lastUsage="1772343228119" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="27" lastUsage="1772281284106" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="9" lastUsage="1772276125318" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1772102538938" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="3" lastUsage="1772275280400" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1772102626700" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="40" lastUsage="1772344968102" />
+    </language>
+    <language id="Vue">
+      <summary usageCount="68" lastUsage="1772344968128" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="5" lastUsage="1772343888344" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/public}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src/lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src/pages}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src/pages}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src/pages/tasks}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hamada/try/vue/src/router}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="vue" />
+            <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/assets/icons/foldersOpen/vue.svg" iconPlugin="com.mallowigi" isLeaf="false" text="vue" />
+              <item name="dir{file:///home/hamada/try/vue}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_intellij.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/hamada/try/vue/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.qodo" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".qodo" />
+                <item name="dir{file:///home/hamada/try/vue/.qodo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_vscode.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/hamada/try/vue/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_node.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/hamada/try/vue/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_folder_public.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="public" />
+                <item name="dir{file:///home/hamada/try/vue/public}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/public/favicon.ico" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_favicon.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="favicon.ico" />
+                  <item name="favicon.ico" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="/assets/icons/foldersOpen/src.svg" iconPlugin="com.mallowigi" isLeaf="false" text="src" />
+                <item name="dir{file:///home/hamada/try/vue/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/assets" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_assets.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="assets" />
+                  <item name="dir{file:///home/hamada/try/vue/src/assets}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/components" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_components.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="components" />
+                  <item name="dir{file:///home/hamada/try/vue/src/components}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/lib" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_lib.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="lib" />
+                  <item name="dir{file:///home/hamada/try/vue/src/lib}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/lib/supabaseClient.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="supabaseClient.ts" />
+                    <item name="supabaseClient.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/lib/utils.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="utils.ts" />
+                    <item name="utils.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/pages" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/assets/icons/foldersOpen/views.svg" iconPlugin="com.mallowigi" isLeaf="false" text="pages" />
+                  <item name="dir{file:///home/hamada/try/vue/src/pages}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/projects" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="projects" />
+                    <item name="dir{file:///home/hamada/try/vue/src/pages/projects}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/tasks" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/assets/icons/foldersOpen/tasks.svg" iconPlugin="com.mallowigi" isLeaf="false" text="tasks" />
+                    <item name="dir{file:///home/hamada/try/vue/src/pages/tasks}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/pages/tasks/[id].vue" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="[id].vue" />
+                      <item name="[id].vue" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/pages/tasks/index.vue" />
+                        </map>
+                      </attributes>
+                      <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.vue" />
+                      <item name="index.vue" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/[...catchAll].vue" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="[...catchAll].vue" />
+                    <item name="[...catchAll].vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/pages/index.vue" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.vue" />
+                    <item name="index.vue" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/router" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_routes.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="router" />
+                  <item name="dir{file:///home/hamada/try/vue/src/router}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/router/index.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.ts" />
+                    <item name="index.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/stores" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="stores" />
+                  <item name="dir{file:///home/hamada/try/vue/src/stores}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/App.vue" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_vue.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="App.vue" />
+                  <item name="App.vue" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_typescript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="main.ts" />
+                  <item name="main.ts" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/style.css" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_css.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="style.css" />
+                  <item name="style.css" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_editorconfig.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_env.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".env" />
+                <item name=".env" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env.example" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_env.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".env.example" />
+                <item name=".env.example" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.eslintcache" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__file.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".eslintcache" />
+                <item name=".eslintcache" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_git.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_git.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.oxlintrc.json" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_json.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".oxlintrc.json" />
+                <item name=".oxlintrc.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc.json" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_prettier.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text=".prettierrc.json" />
+                <item name=".prettierrc.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bun.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_bun-lock.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="bun.lock" />
+                <item name="bun.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components.json" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_json.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="components.json" />
+                <item name="components.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/env.d.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_typescript-def.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="env.d.ts" />
+                <item name="env.d.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/eslint.config.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_eslint.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="eslint.config.ts" />
+                <item name="eslint.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_package-json.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_readme.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tasks_rows.csv" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_csv.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="tasks_rows.csv" />
+                <item name="tasks_rows.csv" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_typescript-config.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/typed-router.d.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_typescript-def.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="typed-router.d.ts" />
+                <item name="typed-router.d.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vite.config.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_vite.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="vite.config.ts" />
+                <item name="vite.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Scratches and Consoles'; set:Scratches and Consoles; class com.intellij.ide.scratch.ScratchesNamedScope">
+          <expand>
+            <path>
+              <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="nodes/project.svg" iconPlugin="com.intellij" isLeaf="false" text="vue" />
+            <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe_folder_plugins.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Extensions" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Database Tools and SQL" />
+                <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_database.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="data" />
+                  <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema" />
+                  <item name="schema" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema.layouts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema.layouts" />
+                  <item name="schema.layouts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+        <subPane subId="Scope 'Open Files'; set:Open Files; class com.intellij.openapi.fileEditor.impl.OpenFilesScope">
+          <expand>
+            <path>
+              <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/try/vue" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="nodes/project.svg" iconPlugin="com.intellij" isLeaf="false" text="vue" />
+            <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="~/try/vue" />
+              <item name="~/try/vue" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app.js" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_javascript.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="app.js" />
+                <item name="app.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/index.html" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe_html.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="true" text="index.html" />
+                <item name="index.html" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="nodes/project.svg" iconPlugin="com.intellij" isLeaf="false" text="vue" />
+            <item name="vue" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="~/try/vue" />
+              <item name="~/try/vue" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </presentation>
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions" />
+                </map>
+              </attributes>
+              <data iconPath="/jetbrains_icons/icons/frappe_folder_plugins.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Extensions" />
+              <item name="Extensions" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database" />
+                  </map>
+                </attributes>
+                <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="Database Tools and SQL" />
+                <item name="Database Tools and SQL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe_folder_database.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="data" />
+                  <item name="data" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema" />
+                  <item name="schema" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema.layouts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="/jetbrains_icons/icons/frappe__folder.svg" iconPlugin="com.github.catppuccin.jetbrains_icons" isLeaf="false" text="schema.layouts" />
+                  <item name="schema.layouts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (2)" workingDirectory="$PROJECT_DIR$/nuxt">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+      <TerminalSessionPersistedTab name="Local (3)" workingDirectory="$PROJECT_DIR$">
+        <option name="shellCommand">
+          <option value="/usr/bin/fish" />
+          <option value="-i" />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84953000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50049114" visible="true" weight="0.2200521" />
+      <window_info id="Commit" order="1" weight="0.2200521" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Qodo" order="3" show_stripe_button="false" />
+      <window_info id="Bookmarks" order="4" sideWeight="0.49950886" side_tool="true" weight="0.2200521" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.41555345" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.41555345" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" show_stripe_button="false" weight="0.32994792" />
+      <unified_weights bottom="0.41555345" left="0.2200521" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Backup and Sync History" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2200521" />
+      <window_info id="Commit" order="1" weight="0.2200521" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Qodo" order="3" show_stripe_button="false" />
+      <window_info id="Bookmarks" order="4" show_stripe_button="false" side_tool="true" weight="0.2278646" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.2514313" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2514313" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="ElectroJunToolWindow" order="5" show_stripe_button="false" weight="0.32994792" />
+      <unified_weights bottom="0.2514313" left="0.2200521" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+      <value>Structure</value>
+      <value>ElectroJunToolWindow</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1772344924542">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="593" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1772344924542" />
+    <state x="648" y="243" key="FileChooserDialogImpl" timestamp="1772344978864">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="648" y="243" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1772344978864" />
+    <state x="469" y="187" key="SettingsEditor" timestamp="1772342850980">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="469" y="187" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1772342850980" />
+    <state width="498" height="463" key="SwitcherDM" timestamp="1772302072031">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="498" height="463" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1772302072031" />
+    <state x="560" y="288" key="Vcs.Push.Dialog.v2" timestamp="1772343026710">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="560" y="288" key="Vcs.Push.Dialog.v2/0.32.1920.1048@0.32.1920.1048" timestamp="1772343026710" />
+    <state x="698" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1772262813587">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="698" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1772262813587" />
+    <state x="560" y="256" key="conflicts.dialog" timestamp="1772281103391">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="560" y="256" key="conflicts.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1772281103391" />
+    <state x="637" y="129" width="770" height="951" key="find.popup" timestamp="1772301960359">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="637" y="129" width="770" height="951" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1772301960359" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1772104395813">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1772104395813" />
+    <state x="834" y="430" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1772302846247">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="834" y="430" width="250" height="284" key="jetbrains.javascript.buildTools.run-task-popup/0.32.1920.1048@0.32.1920.1048" timestamp="1772302846247" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/utils/fetch.ts" />
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/NavbarLink.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/PageViewer.vue" />
+    <entry file="file://$PROJECT_DIR$/src/stores/counter.ts" />
+    <entry file="file://$PROJECT_DIR$/eslint.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typed-router.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260228071624_schema_test.sql" />
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260228071924_projects-schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/supabase.ts" />
+    <entry file="file://$PROJECT_DIR$/database/supabase.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="85" lean-forward="true" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+          <folding>
+            <element signature="e#23#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/projects/[id].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supabase/migrations/20260228104102_tasks-schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tasks/[id].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/projects/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#320#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.app.json" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.node.json" />
+    <entry file="file://$PROJECT_DIR$/src/components/ui/button/Button.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#25#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/index.css" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ui/input/Input.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="e#25#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ui/dropdown-menu/DropdownMenuContent.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ui/dropdown-menu/DropdownMenuCheckboxItem.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/TopNavbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#25#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding>
+            <element signature="e#25#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SidebarLinks.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-core/dist/runtime-core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="1111" column="12" selection-start-line="1111" selection-start-column="12" selection-end-line="1111" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@vue/runtime-dom/dist/runtime-dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="1439" column="21" selection-start-line="1439" selection-start-column="21" selection-end-line="1439" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5926">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/main/AuthLayout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#25#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/[...catchAll].vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ui/data-table/DataTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1390">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="e#49#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/supabaseClient.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vite.config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tasks/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="e#181#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
